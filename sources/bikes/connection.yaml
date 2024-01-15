@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: bikes
+type: bigquery
+options:
+  authenticator: service-account
